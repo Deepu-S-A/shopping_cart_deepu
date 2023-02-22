@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "name" : "Samsung Galaxy F13",
+        "category" : "Electronics",
+        "price" : 11000
+    },
+    {
+        "id" : 2,
+        "name" : "Redmi K20 pro",
+        "category" : "Electronics",
+        "price" : 30000,
+        "discount" : 10 
+    },
+    {
+        "id" : 3,
+        "name" : "Nike DRI-FIT academy",
+        "category" : "Clothing",
+        "price" : 2000,
+        "discount" : 5
+    },
+    {
+        "id" : 4,
+        "name" : "CASIO SA-47A electronic keyboard",
+        "category" : "Musical Instrument",
+        "price" : 3100
+    },
+    {
+        "id" : 5,
+        "name" : "Rich Dad Poor Dad",
+        "category" : "Books",
+        "price" : 380,
+        "discount" : 5
+    }
+]
